@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=fec3667d-a683-4da1-b9ba-d7159df9f585
 
 [Document3]
-DocumentPath=..\Power Board UCC28951\Power Board UCC28951.PrjPcb
+DocumentPath=Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
+DocumentPath=Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\PFC_Stage\PFC_Stage.PrjPcb
+DocumentPath=PFC_Stage\PFC_Stage.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
+DocumentPath=Power Board UCC28951\Power Board UCC28951.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

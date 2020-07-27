@@ -1,8 +1,8 @@
-Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
-Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=..\Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
-Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
-Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=..\Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
-Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=..\PFC_Stage\PFC_Stage.PrjPcb
-Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=..\PFC_Stage\PFC_Stage.PrjPcb
-Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Power Board UCC28951\Power Board UCC28951.PrjPcb
-Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=..\Power Board UCC28951\Power Board UCC28951.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
+Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
+Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=Edge_Card_Ucc28951\Edge_Card_Ucc28951.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=PFC_Stage\PFC_Stage.PrjPcb
+Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=PFC_Stage\PFC_Stage.PrjPcb
+Record=DiagramHierarchy|SourceDocument=UCC2895-Q_3KW.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Power Board UCC28951\Power Board UCC28951.PrjPcb
+Record=SubProject|SourceDocument=UCC2895-Q_3KW.MbsDoc|ProjectPath=Power Board UCC28951\Power Board UCC28951.PrjPcb
