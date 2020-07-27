@@ -1,0 +1,5 @@
+E_SW=Reverse_Polarity,E_SW_Control
+HV_Gate_Drive_In=INA1,INB1,DIS1,DIS2,INB2,INA2
+Input Sense Network=AMC_HV_OUT,ACS_HV_OUT_AMP
+Output_Sense=ACS_LV_OUT_AMP,120V_Sense
+SRG=SRG_B,SRG_A,ENSRG

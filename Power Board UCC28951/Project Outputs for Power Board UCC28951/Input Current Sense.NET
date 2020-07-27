@@ -1,0 +1,79 @@
+PARTS LIST
+
+Cap_1206          RAD-0.3         C?
+Cap_1206          RAD-0.3         C?
+Cap_1206          RAD-0.3         C?
+ECap_SMD_25V      RB7.6-15        C?
+Cap_1206          RAD-0.3         C?
+Cap_1206          RAD-0.3         C?
+Cap_1206          RAD-0.3         C?
+ECap_SMD_25V      RB7.6-15        C?
+Cap_1206          RAD-0.3         C?
+Cap_1206          RAD-0.3         C?
+ECap_SMD_25V      RB7.6-15        C?
+Cap_1206          RAD-0.3         C?
+Cap_0805          RAD-0.3         C?
+Diode 1N4934      DO-41           D?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+RPot              VR5             R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+Res0805           AXIAL-0.3       R?
+TPS60403DBVT      DBV0005A_M      U?
+ICL7660SCBA       INTS-SOIC-8_V   U?
+MCP602-I/SN       SOIC127P570X175_HS-9N - No ThermalU?
+MCP602-I/SN       SOIC127P570X175_HS-9N - No ThermalU?
+LD1117-3.3        SOT230P700X180-4NVR?
+EOS
+NET LIST
+
+NODENAME 2.5V_A           $
+    C?         1  C?         2  C?         2  C?         2  R?         1  R?         1  U?         2  U?         8  VR?        2
+NODENAME 5V_A             $
+    C?         1  C?         2  C?         2  R?         2  U?         8  U?         8  VR?        3
+NODENAME -2.5V_A          $
+    R?         2  R?         2  R?         2
+NODENAME ACS_HV_OUT       $
+    R?         2
+NODENAME ACS_HV_OUT_A     $
+    C?         1  R?         1  R?         2  U?         1
+NODENAME ACS_HV_OUT_B     $
+    R?         1  R?         1  U?         7
+NODENAME GNDA             $
+    C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         1  C?         2  C?         2  D?         2  R?         1  R?         1  R?         2  R?         2  R?         2  R?         2  R?         2  U?         3  U?         4  U?         4  U?         4
+NODE     8                $
+    C?         1  C?         1  U?         2
+NODE     9                $
+    C?         1  U?         5
+NODE     10               $
+    C?         2  R?         1  R?         2  R?         2  U?         2
+NODE     11               $
+    C?         2  D?         1  R?         1  U?         5
+NODE     12               $
+    C?         2  R?         1  U?         1
+NODE     13               $
+    C?         2  C?         2  U?         4
+NODE     14               $
+    C?         2  U?         3
+NODE     16               $
+    R?         1  R?         1  U?         5
+NODE     15               $
+    R?         1  R?         2  U?         6
+NODE     17               $
+    R?         1  R?         1  U?         3
+NODE     18               $
+    R?         1  U?         6
+NODE     19               $
+    R?         2  R?         2  R?         3  VR?        1
+EOS

@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [Power Board UCC28951.PrjPcb]
+   Generated File[Input Current Sense.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:25:26 AM On 3/8/2020
