@@ -1,0 +1,74 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Project\5kw_OBC\UCC2895-Q_KW\Edge_Card_Ucc28951\Edge_Card_Ucc28951.PCBDOC
+Date     : 8/3/2020
+Time     : 2:21:42 PM
+
+ERROR : More than 30 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.18mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net T_NRST Between Pad C4-2(68.605mm,-36.814mm) on TopLayer And Pad R2-2(76.962mm,-31.762mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net T_NRST Between Pad U1-14(54.132mm,-25mm) on TopLayer And Pad C4-2(68.605mm,-36.814mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net VCC_ISO_CAN Between Pad C72-1(20.853mm,-25.251mm) on BottomLayer And Pad C73-1(20.853mm,-23.188mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net VCC_ISO_CAN Between Pad C72-1(20.853mm,-25.251mm) on BottomLayer And Pad U12-8(25.905mm,-39.725mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB4_SYS_NJTRST Between Pad P2-1(129.879mm,16.962mm) on TopLayer [Unplated] And Pad D10-1(134.432mm,38.912mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB3_SYS_JTDO_TRACESWO Between Pad P2-3(129.879mm,19.502mm) on TopLayer [Unplated] And Pad D11-1(148.976mm,38.912mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad P2-7(129.879mm,24.582mm) on TopLayer [Unplated] And Pad D13-1(158.672mm,38.912mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net SWCLK Between Pad P2-9(129.879mm,27.122mm) on TopLayer [Unplated] And Pad D14-1(153.824mm,38.912mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net USART1_RX Between Pad P2-17(129.879mm,37.282mm) on TopLayer [Unplated] And Pad D9-1(139.28mm,38.912mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad SB13-2(82.74mm,-28.9mm) on TopLayer And Pad P2-7(129.879mm,24.582mm) on TopLayer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SWCLK Between Pad SB14-2(82.74mm,-30.95mm) on TopLayer And Pad P2-9(129.879mm,27.122mm) on TopLayer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net PB4 Between Pad SB10-1(81.026mm,-33.001mm) on TopLayer And Pad SB10-2(82.74mm,-33.001mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB4 Between Pad SB6-2(72.39mm,-28.131mm) on BottomLayer And Pad SB10-1(81.026mm,-33.001mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB0 Between Pad U1-32(58.857mm,-32.225mm) on TopLayer And Pad SB12-2(82.74mm,-26.849mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB1 Between Pad U1-33(59.357mm,-32.225mm) on TopLayer And Pad SB15-2(68.326mm,-28.131mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PC4 Between Pad U1-30(57.857mm,-32.225mm) on TopLayer And Pad SB23-1(58.166mm,-29.972mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PC5 Between Pad U1-31(58.357mm,-32.225mm) on TopLayer And Pad SB24-1(60.198mm,-29.972mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PC14-OSC32_IN Between Pad U1-8(54.132mm,-22mm) on TopLayer And Pad SB25-2(62.23mm,-31.686mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PC15-OSC32_OUT Between Pad U1-9(54.132mm,-22.5mm) on TopLayer And Pad SB26-2(70.358mm,-31.686mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PF0-OSC_IN Between Pad U1-12(54.132mm,-24mm) on TopLayer And Pad SB31-2(58.166mm,-28.131mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PF1-OSC_OUT Between Pad U1-13(54.132mm,-24.5mm) on TopLayer And Pad SB32-2(60.198mm,-28.131mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PB3 Between Pad SB5-2(70.358mm,-28.131mm) on BottomLayer And Pad SB8-1(81.026mm,-24.798mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PB3 Between Pad U1-90(60.857mm,-16.775mm) on TopLayer And Pad SB5-2(70.358mm,-28.131mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PB4 Between Pad U1-91(60.357mm,-16.775mm) on TopLayer And Pad SB6-2(72.39mm,-28.131mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PA15 Between Pad SB7-2(75.692mm,-31.083mm) on BottomLayer And Pad SB7-1(75.692mm,-29.369mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PA15 Between Pad U1-78(66.857mm,-16.775mm) on TopLayer And Pad SB7-1(75.692mm,-29.369mm) on BottomLayer 
+   Violation between Un-Routed Net Constraint: Net PB3 Between Pad SB8-1(81.026mm,-24.798mm) on TopLayer And Pad SB8-2(82.74mm,-24.798mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PA14 Between Pad SB9-1(81.026mm,-37.103mm) on TopLayer And Pad SB9-2(82.74mm,-37.103mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net PA14 Between Pad U1-77(67.357mm,-16.775mm) on TopLayer And Pad SB9-1(81.026mm,-37.103mm) on TopLayer 
+   Violation between Un-Routed Net Constraint: Net VCC_ISO_CAN Between Pad U11-5(21.47mm,-46.403mm) on BottomLayer And Pad U12-8(25.905mm,-39.725mm) on TopLayer 
+Rule Violations :30
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('NetC15_2'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('USB_N'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('NetFL1_6'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('NetC15_3'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('NetFL1_5'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InNet('USB_P'))
+Rule Violations :0
+
+
+Violations Detected : 30
+Waived Violations : 0
+Time Elapsed        : 00:00:00
