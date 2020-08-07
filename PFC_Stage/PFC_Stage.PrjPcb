@@ -1375,7 +1375,7 @@ Net7=NetName=LIVE|NetColor=clYellow
 Net8=NetName=LIVE_AUX|NetColor=clYellow
 Net9=NetName=NetC54_2|NetColor=clYellow
 Net10=NetName=NetC55_2|NetColor=clYellow
-Net11=NetName=NetC56_2|NetColor=$006E6EFF
+Net11=NetName=NetC56_2|NetColor=clYellow
 Net12=NetName=NetC57_1|NetColor=$006E6EFF
 Net13=NetName=NetC57_2|NetColor=clYellow
 Net14=NetName=NetC58_1|NetColor=$006E6EFF
