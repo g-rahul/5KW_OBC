@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=F968A33F-C4DD-425B-A3A0-0149F4A98CAC
+VaultGUID=7B82A395-410B-4172-847B-9B266C5CB296
+ReleaseVaultName=Rahul G
+ItemGUID=F968A33F-C4DD-425B-A3A0-0149F4A98CAC
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -800,6 +803,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=AnsysEDB
+OutputName12=Ansys EDB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
