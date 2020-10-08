@@ -1,0 +1,3 @@
+Feedback_28951=ACS_LV_OUT_AMP,ACS_HV_OUT_AMP,120V_Sense
+PW_Signals=INA1,INA2,INB1,INB2,SRG_A,SRG_B
+Ref_Signals=I_Ref,I_ref_PWM,V_Ref,V_ref_PWM
