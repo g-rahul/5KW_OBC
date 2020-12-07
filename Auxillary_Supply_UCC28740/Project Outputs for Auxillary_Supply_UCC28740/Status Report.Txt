@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Auxillary_Supply_UCC28740.PrjPcb]
+   Generated File[Auxillary_Supply_UCC28740.TXT]
+   Generated File[Auxillary_Supply_UCC28740.LDP]
+   Generated File[Auxillary_Supply_UCC28740.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:46:09 AM On 12/2/2020
