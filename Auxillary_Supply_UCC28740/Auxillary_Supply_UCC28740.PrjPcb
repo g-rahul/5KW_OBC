@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=1
-AutoSheetNumbering=0
+AutoSheetNumbering=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -124,6 +124,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Auxillary_Supply_UCC28740.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.DRR
 DItemRevisionGUID=
@@ -207,6 +224,18 @@ DItemRevisionGUID=
 [GeneratedDocument21]
 DocumentPath=Project Outputs for Auxillary_Supply_UCC28740\Design Rule Check - Auxillary_Supply_UCC28740.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=VersionRev
+Value=III
+
+[Parameter2]
+Name=ProjectWebsite
+Value=https://github.com/g-rahul/5KW_OBC
+
+[Parameter3]
+Name=DWGNo
+Value=1
 
 [Configuration1]
 Name=Sources
