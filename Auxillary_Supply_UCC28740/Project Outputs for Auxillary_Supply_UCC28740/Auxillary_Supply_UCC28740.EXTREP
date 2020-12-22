@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Auxillary_Supply_UCC28740.GBR   12/22/2020  11:50:47 AM
+Gerber File Extension Report For: Auxillary_Supply_UCC28740.GBR   12/22/2020  12:03:44 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,12 +14,6 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
-.GM2                Top 3D Body                             
-.GM3                Bottom 3D Body                          
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
-.GM16               Mechanical 16                           
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
