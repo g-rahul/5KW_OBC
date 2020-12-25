@@ -1515,6 +1515,8 @@ Net39=NetName=NetU8_6|NetColor=$006E6EFF
 Net40=NetName=NEUTRAL|NetColor=$00FF6EFF
 Net41=NetName=NEUTRAL_2|NetColor=$00FF6EFF
 Net42=NetName=REC_AC_Sense|NetColor=clYellow
+Net43=NetName=System_Off|NetColor=clYellow
+Net44=NetName=System_Off_2|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
