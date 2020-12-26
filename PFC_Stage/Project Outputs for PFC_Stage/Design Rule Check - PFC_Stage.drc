@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\AD20\Project\5kw_OBC\UCC2895-Q_KW\PFC_Stage\PFC_Stage.PcbDoc
-Date     : 12/25/2020
-Time     : 6:48:45 PM
+Date     : 12/26/2020
+Time     : 12:12:43 PM
 
 WARNING: Multilayer Pads with 0 size Hole found
    Pad D1-2(11417.323mil,3484.252mil) on Multi-Layer
@@ -47,4 +47,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
