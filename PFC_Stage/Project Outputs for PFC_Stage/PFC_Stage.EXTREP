@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PFC_Stage.GBR   12/18/2020  1:08:26 PM
+Gerber File Extension Report For: PFC_Stage.GBR   12/27/2020  2:46:20 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,12 +14,7 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
-.GM2                Top 3D Body                             
-.GM3                Bottom 3D Body                          
 .GM4                Mechanical 4                            
-.GM13               Mechanical 13                           
-.GM15               Mechanical 15                           
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 ------------------------------------------------------------------------------------------
