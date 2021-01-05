@@ -2,10 +2,8 @@
 FileName = PFC_Stage.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : PFC_Stage.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : PFC_Stage.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -13,68 +11,68 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D60
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D71
-    D72
-    D73
-    D74
-    D79
-    D80
-    D81
-    D82
-    D84
-    D92
-    D93
-    D95
-    D97
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D41
+    D42
+    D43
+    D44
+    D46
+    D54
+    D55
+    D57
     D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
     D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
     D119
-    D120
-    D121
-    D122
     D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D177
-    D178
-    D179
-    D180
-    D181
-    D182
-    D183
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
 *************************************************************
 
 *************************************************************
@@ -188,111 +186,6 @@ Used DCodes :
     D18
     D19
     D184
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PFC_Stage.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : PFC_Stage.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D98
-    D109
-    D119
-    D123
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
 *************************************************************
 
 *************************************************************
@@ -477,6 +370,82 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : PFC_Stage.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D71
+    D72
+    D73
+    D74
+    D79
+    D80
+    D81
+    D82
+    D84
+    D92
+    D93
+    D95
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : PFC_Stage.GTP
 
@@ -528,18 +497,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PFC_Stage.GBP
+Generating : Top Pad Master
+      File : PFC_Stage.GPT
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D22
+    D23
     D24
     D25
     D26
@@ -548,58 +516,33 @@ Used DCodes :
     D29
     D30
     D31
+    D32
     D33
     D34
     D35
     D36
+    D37
+    D38
+    D39
+    D40
     D41
     D42
     D43
     D44
+    D45
     D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
     D54
     D55
+    D56
     D57
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D176
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PFC_Stage.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D33
-    D34
-    D35
-    D36
-    D41
-    D42
-    D43
-    D44
-    D46
-    D54
-    D55
-    D57
+    D58
     D98
     D109
     D119
@@ -634,6 +577,63 @@ Used DCodes :
     D165
     D166
     D167
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PFC_Stage.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PFC_Stage.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D41
+    D42
+    D43
+    D44
+    D46
+    D54
+    D55
+    D57
     D170
     D171
     D172

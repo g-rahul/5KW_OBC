@@ -243,10 +243,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Auxillary_Supply_UCC28740\Design Rule Check - Auxillary_Supply_UCC28740.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=DWGNo
 Value=1
