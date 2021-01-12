@@ -2,6 +2,209 @@
 FileName = Auxillary_Supply_UCC28740.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : Auxillary_Supply_UCC28740.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Auxillary_Supply_UCC28740.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Auxillary_Supply_UCC28740.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Auxillary_Supply_UCC28740.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Auxillary_Supply_UCC28740.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D27
+    D28
+    D29
+    D32
+    D33
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Auxillary_Supply_UCC28740.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : Auxillary_Supply_UCC28740.GM4
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Auxillary_Supply_UCC28740.GBL
 
@@ -11,22 +214,15 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D17
+    D20
     D21
-    D22
-    D23
-    D24
-    D26
+    D27
+    D28
     D29
-    D56
-    D60
-    D61
-    D62
-    D64
+    D32
+    D33
     D66
-    D67
     D68
-    D69
     D70
     D71
     D72
@@ -51,143 +247,18 @@ Used DCodes :
     D91
     D92
     D93
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Auxillary_Supply_UCC28740.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D14
-    D106
-    D107
-    D108
-    D109
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : Auxillary_Supply_UCC28740.GM3
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Auxillary_Supply_UCC28740.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D106
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Auxillary_Supply_UCC28740.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D21
-    D22
-    D23
-    D24
-    D26
-    D29
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Auxillary_Supply_UCC28740.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Auxillary_Supply_UCC28740.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Auxillary_Supply_UCC28740.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
 *************************************************************
 
 *************************************************************
@@ -202,18 +273,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D32
-    D36
-    D37
     D38
     D39
-    D41
-    D44
     D45
     D46
     D47
-    D48
-    D49
     D50
     D51
     D52
@@ -224,17 +288,27 @@ Used DCodes :
     D57
     D58
     D59
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
 *************************************************************
 
 *************************************************************
@@ -249,10 +323,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D30
-    D31
-    D32
-    D33
     D34
     D35
     D36
@@ -279,101 +349,17 @@ Used DCodes :
     D57
     D58
     D59
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Auxillary_Supply_UCC28740.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Auxillary_Supply_UCC28740.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D56
     D60
     D61
     D62
     D63
     D64
     D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Auxillary_Supply_UCC28740.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : Auxillary_Supply_UCC28740.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -381,35 +367,38 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D17
+    D20
     D21
-    D22
-    D23
-    D24
-    D26
+    D27
+    D28
     D29
+    D32
+    D33
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
     D81
     D82
     D83
     D84
-    D85
-    D86
-    D87
     D88
     D89
     D90
     D91
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Auxillary_Supply_UCC28740.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D14
-    D105
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
 *************************************************************
 

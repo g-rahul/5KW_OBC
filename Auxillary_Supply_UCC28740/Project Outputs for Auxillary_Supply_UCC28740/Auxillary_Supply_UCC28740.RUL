@@ -1,16 +1,7 @@
 DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\AD20\Project\5kw_OBC\UCC2895-Q_KW\Auxillary_Supply_UCC28740\Auxillary_Supply_UCC28740.PcbDoc
-RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=40.00
-RuleKind=Clearance|RuleName=Clearance_9|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_7|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=20.00
-RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Soldermask|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_1|Scope=Board|Minimum=40.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

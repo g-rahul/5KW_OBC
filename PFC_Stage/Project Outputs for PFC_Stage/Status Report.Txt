@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PFC_Stage.PrjPcb]
+   Generated File[PFC_Stage-RoundHoles.TXT]
+   Generated File[PFC_Stage-SlotHoles.TXT]
+   Generated File[PFC_Stage.LDP]
+   Generated File[PFC_Stage.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:57:59 AM On 1/5/2021
